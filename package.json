@@ -1,0 +1,7 @@
+{
+  "name": "@types/webaudiofont",
+  "scripts": {},
+  "typeScriptVersion": "3.8",
+  "types": "index.d.ts",
+  "version": "0.1.0"
+}
